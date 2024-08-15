@@ -7,7 +7,7 @@ Scenario: You are an IT Support Administrator Specialist and are charged with th
 
 Your application should do the following:
 
-Generate an email with the following syntax firstname lastname@department.company.com
+Generate an email with the following syntax firstnamelastname@department.company.com
 
 Determine the department (sales, development, accounting), if none leave blank
 
